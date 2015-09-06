@@ -11,18 +11,18 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 
-title : Yukang's Page
-tagline: Don't Panic
+title : DaiTao's Page
+tagline: wait--
 author :
-  name : yukang
-  email : moorekang@gmail.com
-  github : chenyukang
-  name: Yukang
-  description: "Something noted by Yukang(Programming, Linux, C/C++, Algorithms, Scheme)"
+  name : Dai Tao
+  email : suafeng@gmail.com
+  github : suafeng
+  name: Dai Tao
+  description: wait--
 
 #markdown: rdiscount
 markdown: kramdown
-url: http://cyukang.com
+url: 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
@@ -32,7 +32,7 @@ url: http://cyukang.com
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://cyukang.com
+production_url : suafeng
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -61,7 +61,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : false
+  BASE_PATH : http://suafeng.github.io/
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
