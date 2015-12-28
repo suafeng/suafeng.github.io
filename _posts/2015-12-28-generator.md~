@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Generator"
+description: ""
+category:
+tags: [Life|Noes]
+---
+{% include JB/setup %}
+
+
+### Generator in Python (5*)
+
+position = [(i,j) for i in range(5) for j in range(4)]
