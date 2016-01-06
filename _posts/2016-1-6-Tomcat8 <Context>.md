@@ -7,6 +7,8 @@ tags: [Life|Noes]
 ---
 {% include JB/setup %}
 
+### Context in Tomcat
+
 设Context一般用以下两种方法:
 
 1. 在Web应用的文件夹下创建META-INF/context.xml, 但是docbase 只能用相对路径

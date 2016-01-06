@@ -8,7 +8,7 @@ tags: [Life|Noes]
 {% include JB/setup %}
 
 
-### Generator in Python (5*)
+### Generator in Python
 
 {% highlight python %}
 position = [(i,j) for i in range(5) for j in range(4)]
